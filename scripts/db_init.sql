@@ -1,3 +1,5 @@
+--Creates the db and the schemas for the bronze, silver and gold layers
+
 --CREATE DATABASE DataWarehouse
 
 /*

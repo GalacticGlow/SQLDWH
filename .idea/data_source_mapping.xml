@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/queries/DDL_creation.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
+    <file url="file://$PROJECT_DIR$/scripts/BulkInsert.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
+    <file url="file://$PROJECT_DIR$/scripts/afkolsdj.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
+    <file url="file://$PROJECT_DIR$/scripts/db_init.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
+    <file url="file://$PROJECT_DIR$/scripts/ddl.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
   </component>
 </project>
