@@ -2,16 +2,8 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/scripts/Bronze/BronzeBulkInsert.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/BronzeDBInit.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/BronzeDDL.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/SilverCleaningCrmCustInfo.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/SilverCleaningCrmPrdInfo.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/SilverCleaningCrmSalesDetails.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/SilverCleaningErpCustAZ12.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/SilverCleaningErpLocA101.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/SilverCleaningErpPxCatG1V2.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/SilverDDL.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/SilverDataExploration.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
-    <file url="file://$PROJECT_DIR$/scripts/SilverFinalSilverCode.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
+    <file url="file://$PROJECT_DIR$/scripts/Gold/GoldViewDimCustomer.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
+    <file url="file://$PROJECT_DIR$/scripts/Gold/GoldViewDimProduct.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
+    <file url="file://$PROJECT_DIR$/scripts/Gold/GoldViewFactSales.sql" value="5b9eb76b-6978-4360-92a4-f9bd6c4c641c" />
   </component>
 </project>
